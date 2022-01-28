@@ -2,7 +2,7 @@ public class fizzbuzz {
 
     public static void main(String[] args) {
         int i=0;
-        while(i<=100){
+        while(i<=200){
 
             if(i%3==0){
                 System.out.println("Fizz");
